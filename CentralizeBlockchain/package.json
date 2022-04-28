@@ -1,0 +1,9 @@
+{
+  "name": "centralize-blockchain",
+  "version": "0.0.0",
+  "description": "CentralizeBlockchain",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

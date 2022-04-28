@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CentralizeBlockchain", "CentralizeBlockchain\CentralizeBlockchain.njsproj", "{3438A39F-B010-4ACC-BAF1-966A0898416D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3438A39F-B010-4ACC-BAF1-966A0898416D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3438A39F-B010-4ACC-BAF1-966A0898416D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3438A39F-B010-4ACC-BAF1-966A0898416D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3438A39F-B010-4ACC-BAF1-966A0898416D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85EE7C6C-7C60-417F-B627-2D4E1AB29AB6}
+	EndGlobalSection
+EndGlobal

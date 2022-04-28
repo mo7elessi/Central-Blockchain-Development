@@ -1,0 +1,3 @@
+C:\Users\hp\source\repos\CentralizeBlockchain\CentralizeBlockchain\obj\Debug\CentralizeBlockchain.njsproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CentralizeBlockchain\CentralizeBlockchain\obj\Debug\CentralizeBlockchain.njsproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CentralizeBlockchain\CentralizeBlockchain\bin\Microsoft.NodejsTools.WebRole.dll
